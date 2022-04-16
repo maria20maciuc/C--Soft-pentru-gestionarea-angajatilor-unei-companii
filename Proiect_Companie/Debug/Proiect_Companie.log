@@ -1,0 +1,16 @@
+﻿  Source.cpp
+d:\Users\ana\Desktop\Anul ll, sem ll\POO\Proiect\Proiect_Companie\Proiect_Companie\Source.cpp(314,20): warning C4018: '<': signed/unsigned mismatch
+d:\Users\ana\Desktop\Anul ll, sem ll\POO\Proiect\Proiect_Companie\Proiect_Companie\Source.cpp(318,21): warning C4018: '<': signed/unsigned mismatch
+d:\Users\ana\Desktop\Anul ll, sem ll\POO\Proiect\Proiect_Companie\Proiect_Companie\Source.cpp(346,20): warning C4018: '<': signed/unsigned mismatch
+d:\Users\ana\Desktop\Anul ll, sem ll\POO\Proiect\Proiect_Companie\Proiect_Companie\Source.cpp(348,21): warning C4018: '<': signed/unsigned mismatch
+d:\Users\ana\Desktop\Anul ll, sem ll\POO\Proiect\Proiect_Companie\Proiect_Companie\Source.cpp(182,20): warning C4018: '<': signed/unsigned mismatch
+d:\Users\ana\Desktop\Anul ll, sem ll\POO\Proiect\Proiect_Companie\Proiect_Companie\Source.cpp(180): message : while compiling class template member function 'int Meniu<Muncitor>::totalCheltuieliSalarii(void)'
+d:\Users\ana\Desktop\Anul ll, sem ll\POO\Proiect\Proiect_Companie\Proiect_Companie\Source.cpp(561): message : see reference to function template instantiation 'int Meniu<Muncitor>::totalCheltuieliSalarii(void)' being compiled
+d:\Users\ana\Desktop\Anul ll, sem ll\POO\Proiect\Proiect_Companie\Proiect_Companie\Source.cpp(271): message : see reference to class template instantiation 'Meniu<Muncitor>' being compiled
+d:\Users\ana\Desktop\Anul ll, sem ll\POO\Proiect\Proiect_Companie\Proiect_Companie\Source.cpp(210,21): warning C4018: '<': signed/unsigned mismatch
+d:\Users\ana\Desktop\Anul ll, sem ll\POO\Proiect\Proiect_Companie\Proiect_Companie\Source.cpp(195): message : while compiling class template member function 'void Meniu<Muncitor>::afiseazaInfo(int)'
+d:\Users\ana\Desktop\Anul ll, sem ll\POO\Proiect\Proiect_Companie\Proiect_Companie\Source.cpp(417): message : see reference to function template instantiation 'void Meniu<Muncitor>::afiseazaInfo(int)' being compiled
+d:\Users\ana\Desktop\Anul ll, sem ll\POO\Proiect\Proiect_Companie\Proiect_Companie\Source.cpp(222,20): warning C4018: '<': signed/unsigned mismatch
+d:\Users\ana\Desktop\Anul ll, sem ll\POO\Proiect\Proiect_Companie\Proiect_Companie\Source.cpp(221): message : while compiling class template member function 'void Meniu<Muncitor>::afiseazaInfoToti(void)'
+d:\Users\ana\Desktop\Anul ll, sem ll\POO\Proiect\Proiect_Companie\Proiect_Companie\Source.cpp(398): message : see reference to function template instantiation 'void Meniu<Muncitor>::afiseazaInfoToti(void)' being compiled
+  Proiect_Companie.vcxproj -> d:\Users\ana\Desktop\Anul ll, sem ll\POO\Proiect\Proiect_Companie\Debug\Proiect_Companie.exe

@@ -1,0 +1,15 @@
+Muncitor	Nume Nr1	iT	300	0
+Muncitor	Nume Nr2	HR	400	0
+Team Leader	Nume Nr1	HR	500 2 1 2
+Muncitor	Nume Nr3	HR	400	0
+Muncitor	Nume Nr4	iT	300	0
+Muncitor	Nume Nr5	iT	400	0
+Muncitor	Nume Nr6	iT	300	0
+Muncitor	Nume Nr7	iT	400	0
+Team Leader	Nume Nr2	iT	500 3 0 4 3
+Team Leader	Nume Nr3	iT	500 3 3 5 6
+Sef Departament	Nume Nr2	iT	600 2 1 2
+Sef Departament	Nume Nr1	HR	600 2 0 2
+CEO	Nume	Toti	1000 2 0 1
+Muncitor	Nume Nr8	iT	400	0
+Team Leader	Nume Nr4	iT	200	0
