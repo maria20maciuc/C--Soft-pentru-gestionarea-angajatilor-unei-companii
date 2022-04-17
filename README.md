@@ -8,9 +8,7 @@ manager;
 subordonat. Un șef de departament poate avea subordonați mai mulți team leaderi.
 * fiecare angajat va avea: Nume, Salariu, Functie, Departament și lista cu angajații
 subordonati;
-* s-a definit o clasă template Meniu care sa gestioneze angajații (dupa tip). Clasa contine indexul unui angajat (incrementat automat la angajarea unei personae noi prin
-supraîncărcarea operatorului +=) și un vector de pointeri la obiecte de tip Angajat, alocat
-dinamic;
+* s-a definit o clasă template Meniu care sa gestioneze angajații (dupa tip);
 * informațiile sunt păstrate în fișiere.
 
 Aplicatia permite urmatoarele actiuni:
