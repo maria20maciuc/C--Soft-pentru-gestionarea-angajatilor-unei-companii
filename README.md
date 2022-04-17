@@ -13,7 +13,7 @@ subordonati;
 
 Aplicatia permite urmatoarele actiuni:
 
-* afișarea informațiilor despre toți angajații
-* total cheltuieli cu salariile
-* introducerea unui nou angajat (angajarea unei persoane în firmă)
-* modificarea salariului unui angajat
+* afișarea informațiilor despre toți angajații;
+* total cheltuieli cu salariile;
+* introducerea unui nou angajat (angajarea unei persoane în firmă);
+* modificarea salariului unui angajat.
